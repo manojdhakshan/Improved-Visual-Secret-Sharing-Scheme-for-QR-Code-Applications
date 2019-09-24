@@ -1,0 +1,10 @@
+Modules:
+User
+Broker Manager
+Brokers of cloud
+Trust Authority
+1.fake cloud service providers, who used to cheat the users or customers by making fake websites.
+2.Im gng to rank the cloud provider which one is best by 4 types of trust 
+3.Classify that cloud provider into 4 categories
+the fake messages coming from bank websites which are actually send by intruders to the customer. A user should never share his/her important details till he do not get satisfied by the terms and conditions and service level agreement of the cloud service provider.
+ 

@@ -1,0 +1,16 @@
+Improved Visual Secret Sharing Scheme for QR Code Applications
+
+This Project has following Modules:
+1. Register---> User needs register by giving the details.
+2. Login---> User login with username and password
+3. Message--->Here user can send message to other user
+	For security purpose, the secret message should be encrypted and stored QR Code.
+	By using the Division Algorithm, the secret message is spillted into several parts.
+	The Splitted message is encrypted and stored in the QR Code with secret key
+	Select the person to whom the user wants to send the message.
+4. Receive--->User can see the received Secret message in QR Code
+	The message are splitted and received so user needs to Merge all the QR code images.
+All the spliited parts are merged and the secret message is hidden in the QR code
+By using the mobile device cam QR Scanner, Receiver can able to see the original message.
+
+Thanks for watching this video
